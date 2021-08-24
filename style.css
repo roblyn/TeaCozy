@@ -65,8 +65,15 @@ h2,h4 {
 }
 .nav-bar li{
   margin-right: 40px; 
-  text-decoration: underline; 
   list-style: none;
+}
+.nav-bar a:hover{
+    text-decoration: none;
+}
+.nav-bar a:visited{
+    color: white;
+    text-decoration: none; 
+    
 }
 
 .content {
